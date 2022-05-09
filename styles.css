@@ -1,0 +1,36 @@
+body { 
+    background-color:#42e6f5;
+}
+
+img {	
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+	color:#f04911;
+}
+
+p {
+	text-align:center;
+    color:#210b0b;
+    font-family:'Nunito', sans-serif;
+}
+
+.question {
+	background-color:white;
+	text-align:center;
+    font-family:cursive;
+    color:#691616;
+}
+
+.A {
+	 width:300px;
+    height:200px;
+}
+
+.C {
+	 width:340px;
+    height:250px;}
+
